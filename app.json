@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Viva-Leve",
+    "slug": "viva-leve",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.energiaativa.vivaleve"
+    }
+  }
+}
